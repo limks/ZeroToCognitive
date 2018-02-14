@@ -4,7 +4,7 @@ applications:
   instances: 1
   domain: w3ibm.mybluemix.net
   name: Z2C
-  host: Z2C
+  host: Z2C-limks
   disk_quota: 1024M
   services:
     - Speech to Text-8h
