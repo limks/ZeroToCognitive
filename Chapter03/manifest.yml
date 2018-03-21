@@ -2,9 +2,9 @@ applications:
 - path: .
   memory: 128M
   instances: 1
-  domain: w3ibm.mybluemix.net
-  name: Z2C
-  host: Z2C
+  domain: mybluemix.net
+  name: Z2C-limks-Chapter03
+  host: Z2C-limks-Chapter03
   disk_quota: 1024M
   services:
-    - Speech to Text-8h
+    - speech-to-text-xtvsb-speech-to--1521609838565
