@@ -9,4 +9,4 @@ applications:
   services:
     - speech-to-text-xtvsb-speech-to--1521609838565
     - text-to-speech-vzczt-text-to-sp-1521609868117
-    - natural-language-classif-natural-la-1521618446166
+    - Natural Language Classifier-2u
