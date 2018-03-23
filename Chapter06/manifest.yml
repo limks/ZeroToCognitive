@@ -3,10 +3,10 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: Z2C
-  host: Z2C
+  name: Z2C-limks-Chapter06
+  host: Z2C-limks-Chapter06
   disk_quota: 1024M
   services:
-    - Speech to Text-xx
-    - Text to Speech-xx
-    - Natural Language Classifier-xx
+    - speech-to-text-xtvsb-speech-to--1521609838565
+    - text-to-speech-vzczt-text-to-sp-1521609868117
+    - Natural Language Classifier-2u
